@@ -21,6 +21,7 @@
 #pragma once
 
 #include "arrow/util/macros.h"
+#include "logging.h"
 
 #ifdef ARROW_USE_SIMD
 
